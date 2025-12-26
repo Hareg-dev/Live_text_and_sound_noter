@@ -1,0 +1,9 @@
+opencv-python==4.8.1.78
+SpeechRecognition==3.10.0
+PyAudio==0.2.11
+pytesseract==0.3.10
+gTTS==2.4.0
+pygame==2.5.2
+kivy==2.2.0
+numpy==1.24.3
+pathlib2==2.3.7
